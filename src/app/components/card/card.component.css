@@ -21,6 +21,6 @@
 }
 
 .card__price:hover {
-    font-weight: 1000;
+    font-weight: 700;
     color: rgb(49, 230, 13);
 }
